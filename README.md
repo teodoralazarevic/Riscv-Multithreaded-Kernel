@@ -1,4 +1,5 @@
 # Riscv-Multithreaded-Kernel
+## Overview
 The goal of this project is to implement a small but functional operating system kernel for the RISC-V processor. The kernel supports:
 
 - Multithreading with time sharing
@@ -6,6 +7,11 @@ The goal of this project is to implement a small but functional operating system
 - Asynchronous context switching triggered by timer and keyboard interrupts
 - Memory allocation
 - Console input/output
+ 
+> **Academic context:**  
+> This project was developed as part of an **academic course on Operating Systems 1**, with the goal of gaining hands-on experience with core operating system concepts, low-level system programming, and kernel–user space interaction.
+
+
 ---
 
 ## System Architecture
